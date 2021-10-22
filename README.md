@@ -1,4 +1,4 @@
-<h1><p align='Middle'>𝑯𝒆𝒚𝒚 !! 𝑯𝒊 !!</p></h1>
+<h1><p align='Middle'> 𝑯𝒊 !!</p></h1>
 
   
 <p align='Middle'><a href='https://telegram.me/ItS_PrAnav_xD'> <img src='https://telegra.ph/file/495c37ea86d6e1a30fa87.jpg' width='400"'></a></p>
