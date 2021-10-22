@@ -91,7 +91,7 @@
   <summary>Some Cool Repositories 😇</summary><p align='middle'>
   <a href="https://github.com/MadBoy-X/TeslaRobo" alt="TeslaRobo"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-TᴇsʟᴀRᴏʙᴏ-black" /> </a></p>
   <p align='middle'>
-    <a href="https://github.com/Andencento/Andencento" alt="Andencento"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aɴᴅᴇɴᴄᴇɴᴛᴏ-blue" /> </a></p>
+    <a href="https://github.com/drklo/Telegram" alt="Andencento"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aɴᴅᴇɴᴄᴇɴᴛᴏ-blue" /> </a></p>
   <p align='middle'>
     <a href="https://github.com/MadBoy-X/MusicBot" alt="MusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Tᴇsʟᴀ MᴜsɪᴄBᴏᴛ-red" /> </a></p>
   <p align='middle'>
