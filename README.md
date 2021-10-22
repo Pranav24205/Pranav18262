@@ -39,9 +39,9 @@
   </p>
   <p align='middle'>
     <b><i>
-      2<sup>nd</sup> Email 📨  »» 
+      <sup></sup> Email 📨  »» 
       </b></i>
-    <a href="ultramaxrobo@gmail.com" alt="📨"> <img src="https://img.shields.io/badge/Pranav21-33FFC1?logo=gmail"
+    <a href="ultramaxrobo@gmail.com" alt="📨"> <img src="https://img.shields.io/badge/Pranav-33FFC1?logo=gmail"
                                                                       /></a>
   </p>
 </details>
