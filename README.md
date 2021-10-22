@@ -59,7 +59,7 @@
 
 <details>
   <summary>Top Languages 🏆</summary>
-  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav18262&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
 </details>
 
 ---
