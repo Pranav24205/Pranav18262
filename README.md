@@ -87,15 +87,3 @@
 
 ---
 
-<details>
-  <summary>Some Cool Repositories 😇</summary><p align='middle'>
-  <a href="https://github.com/MadBoy-X/TeslaRobo" alt="TeslaRobo"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-TᴇsʟᴀRᴏʙᴏ-black" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/drklo/Telegram" alt="Andencento"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aɴᴅᴇɴᴄᴇɴᴛᴏ-blue" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/MadBoy-X/MusicBot" alt="MusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Tᴇsʟᴀ MᴜsɪᴄBᴏᴛ-red" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/MadBoy-X/SuperBot" alt="SuperBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SᴜᴘᴇʀBᴏᴛ-chrome" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/MadBoy-X/SuperBot-Deploy" alt="SuperBot-Deploy"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SᴜᴘᴇʀBᴏᴛ Dᴇᴘʟᴏʏ-yellow" /> </a></p>
-</details>
