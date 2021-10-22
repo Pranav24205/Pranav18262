@@ -10,19 +10,19 @@
     <b><i>
       AGE           »»
       </b></i> 
-    16
+    12
   </p>
   <p align='middle'>
     <b><i>
       CLASS         »»
       </b></i> 
-    XI<sup>th</sup>
+    VIII<sup>th</sup>
   </p>
   <p align='middle'>
     <b><i>
       STATE         »»
       </b></i> 
-    Haryana
+    Bihar
   </p>
   <p align='middle'>
     <b><i>
