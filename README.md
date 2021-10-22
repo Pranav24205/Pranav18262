@@ -39,9 +39,9 @@
   </p>
   <p align='middle'>
     <b><i>
-      2<sup>nd</sup> GIT ACC  »» 
+      2<sup>nd</sup> Email 📨  »» 
       </b></i>
-    <a href="https://github.com/Pranav21" alt="Pranav21"> <img src="https://img.shields.io/badge/Pranav21-33FFC1?logo=github"
+    <a href="ultramaxrobo@gmail.com" alt="📨"> <img src="https://img.shields.io/badge/Pranav21-33FFC1?logo=github"
                                                                       /></a>
   </p>
 </details>
