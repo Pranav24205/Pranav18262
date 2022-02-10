@@ -50,8 +50,8 @@
 
 <details>
 <summary>My Stats 📊</summary><p align='middle'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Pranav18262&show_icons=true&theme=midnight-purple' width='500"'></p>
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Pranav18262&theme=midnight-purple&show_icon=true' width='500"'></p> <p
+  <img src='https://github-readme-stats.vercel.app/api?username=Pranav24205&show_icons=true&theme=midnight-purple' width='500"'></p>
+  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Pranav24205&theme=midnight-purple&show_icon=true' width='500"'></p> <p
   align='middle'><img src='https://komarev.com/ghpvc/?username=madboy482&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 </details>
 
@@ -59,7 +59,7 @@
 
 <details>
   <summary>Top Languages 🏆</summary>
-  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav18262&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav24205&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
 </details>
 
 ---
